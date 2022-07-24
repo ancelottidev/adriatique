@@ -191,3 +191,26 @@ h1, h2 {
     position: relative;
 }
 
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: #fff;
+}
+
+.social-net {
+    text-align: center;
+}
+
+.social-net > li {
+    display: inline;
+}
+
+.social-net i {
+    font-size: 150%;
+    color: #073b17;
+    margin: 60px;
+    padding: 2.5px;
+}
+
+
