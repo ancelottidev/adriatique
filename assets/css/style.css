@@ -107,9 +107,11 @@ h1, h2 {
     padding-top: 5%;
     padding-bottom: 5%;
 
-    position: relative;
-    left: 22%;
+    vertical-align: center;
+    display: inline-block;
 
+    position: relative;
+    left: 25%;
 }
 
 #vacation-section h2 {
@@ -138,6 +140,11 @@ h1, h2 {
     width: 35%;
 }
 
+.croatia {
+    display: inline-block;
+    vertical-align: center;
+}
+
 #croatia-header {
     text-transform: uppercase;
     font-size: 2vw;
@@ -155,3 +162,32 @@ h1, h2 {
 .hvar-image {
     width: 300px;
 }
+
+#montenegro-coast {
+    width: 35%;
+}
+
+#montenegro-header {
+    text-transform: uppercase;
+    font-size: 2vw;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#montenegro-content {
+    font-size: 1vw;
+    text-align: center;
+    margin: -10px 10px 10px 10px;
+    padding: 0 20%;
+}
+
+.budva-image {
+    width: 300px;
+}
+
+.montenegro {
+    display: inline-block;
+    vertical-align: center;
+    position: relative;
+}
+
