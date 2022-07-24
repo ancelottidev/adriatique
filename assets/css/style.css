@@ -121,3 +121,15 @@ h1, h2 {
     font-size: 1vw;
     padding: 0 15%;
 }
+
+/* destination-section */
+
+#destinations-section {
+    width: 100%;
+}
+
+#destination-section-content {
+    text-align: center;
+    padding: 20px 60px 20px 60px;
+    background-color: #dbd6fb;
+}
