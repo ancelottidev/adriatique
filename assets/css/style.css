@@ -261,6 +261,20 @@ footer {
     margin-top: 15px;
 }
 
+/* book-now-form */
+
+#bn-form {
+    width: 100%;
+}
+
+#book-now-form {
+    background-color: #cdead6;
+    width: 33%;
+    text-align: left;
+    padding: 20px 60px 20px 60px;
+    margin: 0 auto;
+}
+
 
 
 

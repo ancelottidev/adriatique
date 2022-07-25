@@ -37,6 +37,32 @@
             <h1>Book Now</h1>
             <h2>Book your dream vacation by filling out the form below</h2>
         </div>
+
+        <div id="bn-form">
+            <form id="book-now-form" class="book-form">
+                <h2>Booking Form</h2>
+                
+                <label for="fname">First Name</label>
+                <input type="text" class="text-input" id="fname" name="fname" required>
+                <label for="lname">Last Name</label>
+                <input type="text" class="text-input" id="lname" name="lname" required>
+                <label for="email">Email Address</label>
+                <input type="email" class="text-input" id="email" name="email-address" required>
+
+                <h3>Choose the area you prefer to visit on the Adriatic</h3>
+
+                <label for="northern-adriatic" class="label-checkbox">Northern Adriatic</label>
+                <input type="radio" class="radio" id="northern-adriatic" name="prefer" value="northern-adriatic" required>
+                <label for="central-adriatic" class="label-checkbox">Central (or Middle) Adriatic</label>
+                <input type="radio" class="radio" id="central-adriatic" name="prefer" value="central-adriatic" required>
+                <label for="southern-adriatic" class="label-checkbox">Southern Adriatic</label>
+                <input type="radio" class="radio" id="southern-adriatic" name="prefer" value="southern-adriatic" required>
+
+                <br>
+
+                <input type="submit" class="submit" arial-label="Submit button">
+            </form>
+        </div>
     </section>
 
     <footer>
