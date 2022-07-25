@@ -213,4 +213,20 @@ footer {
     padding: 2.5px;
 }
 
+/* book-now-page */
+
+#book-now-image-section {
+    margin-top: 80px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#book-now-image {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
 
