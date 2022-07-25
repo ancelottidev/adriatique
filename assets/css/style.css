@@ -384,4 +384,33 @@ footer {
     font-size: 1.3vw;
 }
 
+/* our mission image */
+
+#our-mission {
+    width: 100%;
+    height: auto;
+}
+
+#our-mission-image {
+    
+        width: 100%;
+        height: 350px;
+        background: url(../images/our-mission-image.jpeg) no-repeat center center;
+        margin-top: 40px;
+}
+
+/* our mission text */
+
+#our-mission-text h1 {
+    text-align: center;
+    font-size: 3vw;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#our-mission-text p {
+    margin: 15px 60px 15px 60px;
+    text-align: center;
+    font-size: 1.3vw;
+}
 
