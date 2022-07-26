@@ -510,6 +510,8 @@ footer {
         margin: 0 0 3% 0;
     }
 
+    /* book now form headings */
+
     #book-now-text h6 {
         font-size: 1.6vw;
     }
@@ -530,6 +532,8 @@ footer {
         width: 50%;
     }
 
+    /* about us section */
+
     #about-us-text h2 {
         font-size: 4vw;
     }
@@ -545,6 +549,8 @@ footer {
     #about-us-text {
         margin-top: 100px;
     }
+
+    /* our mission section */
 
     #our-mission-section {
         height: 800px;
@@ -565,9 +571,12 @@ footer {
 
 /* for screen sizes from 0px till 480px */
 @media screen and (min-width: 0px) and (max-width: 480px) {
+    
     #destinations-section {
         width: 100vw;
     }
+
+    /* croatia part in destination sections */
 
     #croatia-coast {
         width: 100%;
@@ -593,6 +602,7 @@ footer {
         padding: 0;
     }
 
+    /* montenegro part in destinations section */
 
     #montenegro-coast {
         width: 100%;
@@ -618,13 +628,19 @@ footer {
         padding: 0;
     }
 
+    /* menu from header */
+
     #menu {
         font-size: 75%;
     }
 
+    /*vacation section paragraph */
+
     #vacation-section p {
         font-size: 3vw;
     }
+
+    /* footer icons */
 
     .social-net i {
         margin: 20px;
@@ -634,6 +650,8 @@ footer {
         position: relative;
         top: 40px;
     }
+
+    /* book now section */
 
     #book-now-text h6 {
         font-size: 2vw;
@@ -659,6 +677,8 @@ footer {
         margin: 0 auto;
     }
 
+    /* about us section */
+
     #about-us-section {
         height: 780px;
     }
@@ -670,6 +690,8 @@ footer {
     #about-us-section p {
         font-size: 3.8vw;
     }
+
+    /* our mission section */
 
     #our-mission-section {
         height: 700px;
