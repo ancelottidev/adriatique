@@ -441,4 +441,12 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #vacation-section h2 {
+        font-size: 4vw;
+    }
+
+    #vacation-section p {
+        font-size: 2vw;
+    }
 }
