@@ -450,3 +450,63 @@ footer {
         font-size: 2vw;
     }
 }
+
+/* For screen sizes from min-width: 480px till max-width: 1000px */
+@media screen and (min-width: 480px) and (max-width: 1000px) {
+    
+    #destination-section {
+        width: 100vw;
+    }
+
+    #destination-section-content {
+        padding: 0;
+    }
+
+    #croatia-coast {
+        width: 100%;
+        height: auto;
+    }
+
+    .croatia {
+        vertical-align: center;
+        position: relative;
+    }
+
+    #hvar-image {
+        width: 200%;
+        margin-top: 20%;
+    }
+
+    #croatia-header {
+        font-size: 3vw;
+    }
+
+    #croatia-content {
+        font-size: 2vw;
+        margin: 0 0 3% 0;
+    }
+
+    #montenegro-coast {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    .montenegro {
+        vertical-align: center;
+        position: relative;
+    }
+
+    #budva-image {
+        width: 200px;
+        margin: 0 0 20px 0;
+    }
+
+    #montenegro-header {
+        font-size: 3vw;
+    }
+
+    #montenegro-content {
+        font-size: 2vw;
+        margin: 0 0 3% 0;
+    }
+}
