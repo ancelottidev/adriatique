@@ -35,3 +35,38 @@ A live version of the project can be found here - https://ancelottidev.github.io
 + [Content](#content "Content")
 + [Media](#media "Media")
 + [Credits](#credits "Credits")
+
+### Requirements
+
+A static responsive website that incorporates the technologies I have learned so far that contains some advanced functionality. The development process needs to be well documented through a version controls system such as GitHub.
+
+Required technologies: HTML, CSS
+
+### Design
+
+The design for this project came from ”Love Running” project.
+
+My idea for this project was to create a functional and eye-pleasing website for a fictitious travel agency with all my knowledge that I have acquired so far through this course. In my opinion, the design is solid, and I think that in the future I can improve it even more.
+
+#### Typography
+
+The [Google Font Raleway](https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap) was chosen as the main font with a fallback of Sans-Serif. Font weight of 300 have been used on the website.
+
+#### Images
+
+The images are selected according to the criterion that they match the text and context. Pictures taken exclusively from the specific place/country to which the context refers.
+
+## Features 
+
+Ʌdriatique Travel Agency website is a three-page website plus a Confirmation Page that consists of the following sections:
+
+ - Header (Logo/Navigation Bar)
+ - Home Page Hero Outer Section
+ - Vacation Section
+ - Destination Section
+ - Footer
+ - Book Now Image Section
+ - Book Now Form Section
+ - About Us Section
+ - Our Mission Section
+ - Confirmation Section
