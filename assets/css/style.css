@@ -567,6 +567,19 @@ footer {
     }
 
     #menu {
-        font-size: 80%;
+        font-size: 75%;
+    }
+
+    #vacation-section p {
+        font-size: 3vw;
+    }
+
+    .social-net i {
+        margin: 20px;
+    }
+
+    .social-net {
+        position: relative;
+        top: 40px;
     }
 }
