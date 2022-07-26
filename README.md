@@ -9,3 +9,29 @@ The website contains a home page with three sections. Book Now page that contain
 
 A live version of the project can be found here - https://ancelottidev.github.io/adriatique/
  
+ # Table of Content
+
++ [Requirements](#requirements "Requirements")
++ [Design](#design "Design")
+    + [Typography](#typography "Typography")
+    + [Images](#images "Images")
++ [Features](#features "Features")
+  + [Existing Features](#existing-features "Existing Features")
+    + [Header With Logo and Navigation Bar Section](#header-with-logo-and-navigation-bar-section "Header With Logo and Navigation Bar Section")
+    + [Home Page Hero Outer Section](#home-page-hero-outer-section "Home Page Hero Outer Section")
+    + [Vacation Section](#vacation-section "Vacation Section")
+    + [Destinations Section](#destinations-section "Destinations Section")
+    + [Footer Section](#footer-section "Footer Section")
+    + [Book Now Image Section](#book-now-image-section "Book Now Image Section")
+    + [Book Now Form Section](#book-now-form-section "Book Now Form Section")
+    + [About Us Section](#about-us-section "About Us Section")
+    + [Our Mission Section](#our-mission-section "Our Mission Section")
+    + [Confirmation Section](#confirmation-section "Confirmation Section")
++ [Technologies used](#technologies-used "Technologies used")
++ [Testing](#testing "Testing")
+  + [Validator Testing](#validator-testing "Validator Testing")
+  + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
++ [Development and Deployment](#development-and-deployment "Development and Deployment")
++ [Content](#content "Content")
++ [Media](#media "Media")
++ [Credits](#credits "Credits")
