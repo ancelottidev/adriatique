@@ -70,3 +70,12 @@ The images are selected according to the criterion that they match the text and 
  - About Us Section
  - Our Mission Section
  - Confirmation Section
+
+ ### Existing Features
+
+ #### Header With Logo and Navigation Bar Section
+
+  - The Header consists of a Logo section that is aligned to the left and a Menu that is aligned to the right.
+  - Featured on all four pages, the navigation bar includes links to the Home page, Book Now page and About Us page and is identical in each page to allow for easy navigation.
+
+  ![Header and Navigation](./assets/images/header-photo.png)
