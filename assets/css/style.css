@@ -658,4 +658,28 @@ footer {
         width: 50%;
         margin: 0 auto;
     }
+
+    #about-us-section {
+        height: 780px;
+    }
+
+    #about-us-section h2 {
+        font-size: 7vw;
+    }
+
+    #about-us-section p {
+        font-size: 3.8vw;
+    }
+
+    #our-mission-section {
+        height: 700px;
+    }
+
+    #our-mission-section h2 {
+        font-size: 7vw;
+    }
+
+    #our-mission-section p {
+        font-size: 3.8vw;
+    }
 }
