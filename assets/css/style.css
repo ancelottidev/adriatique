@@ -546,7 +546,21 @@ footer {
         margin-top: 100px;
     }
 
+    #our-mission-section {
+        height: 800px;
+    }
 
+    #our-mission-text h2 {
+        font-size: 4vw;
+    }
+
+    #our-mission-text p {
+        font-size: 2vw;
+    }
+
+    #our-mission-text {
+        margin-top: 150px;
+    }
 }
 
 /* for screen sizes from 0px till 480px */
