@@ -530,6 +530,22 @@ footer {
         width: 50%;
     }
 
+    #about-us-text h2 {
+        font-size: 4vw;
+    }
+
+    #about-us-text p {
+        font-size: 2vw;
+    }
+
+    #about-us-section {
+        height: 800px;
+    }
+
+    #about-us-text {
+        margin-top: 100px;
+    }
+
 
 }
 
