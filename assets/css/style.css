@@ -567,6 +567,17 @@ footer {
     #our-mission-text {
         margin-top: 150px;
     }
+
+    /* confirmation page headings */
+
+    #confirmation-section h2 {
+        font-size: 5vw;
+    }
+
+    #confirmation-section h3 {
+        font-size: 1.9vw;
+    }
+
 }
 
 /* for screen sizes from 0px till 480px */
@@ -704,4 +715,15 @@ footer {
     #our-mission-section p {
         font-size: 3.8vw;
     }
+
+    /* confirmation page headings */
+
+    #confirmation-section h2 {
+        font-size: 6vw;
+    }
+
+    #confirmation-section h3 {
+        font-size: 3vw;
+    }
+
 }
