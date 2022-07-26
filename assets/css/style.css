@@ -509,6 +509,28 @@ footer {
         font-size: 2vw;
         margin: 0 0 3% 0;
     }
+
+    #book-now-text h6 {
+        font-size: 1.6vw;
+    }
+
+    #book-now-form-section h2 {
+        font-size: 5vw;
+    }
+
+    #book-now-form-section h3 {
+        font-size: 3.5vw;
+    }
+
+    #bn-form {
+        width: 100%;
+    }
+
+    #book-now-form {
+        width: 50%;
+    }
+
+
 }
 
 /* for screen sizes from 0px till 480px */
@@ -581,5 +603,29 @@ footer {
     .social-net {
         position: relative;
         top: 40px;
+    }
+
+    #book-now-text h6 {
+        font-size: 2vw;
+    }
+
+    #book-now-image {
+        height: 200px;
+        width: 100%;
+    }
+
+    #book-now-form-section h2 {
+        font-size: 5vw;
+    }
+
+    #book-now-form-section h3 {
+        font-size: 3.5vw;
+    }
+
+    #book-now-form {
+        text-align: left;
+        padding: 10px 60px 10px 60px;
+        width: 50%;
+        margin: 0 auto;
     }
 }
