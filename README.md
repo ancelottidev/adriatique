@@ -158,7 +158,7 @@ The images are selected according to the criterion that they match the text and 
 
   Test has been conducted using Google Chrome, Mozilla Firefox and Safari. Testing diffrent devices and screen resolutions has been conducted using Google DevTools.
 
-  ### Validator
+  ### Validator Testing
 
   - HTML
     - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fancelottidev.github.io%2Fadriatique%2Findex.html)
