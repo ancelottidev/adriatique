@@ -98,8 +98,28 @@ The images are selected according to the criterion that they match the text and 
 
  #### Destination Section
 
- - This section contains two boxes with an image, a heading and a paragraph, each.
- - The goal of this section is to convey to the user a little more information about destinations on the Adriatic.
- - Each box has an image that has been carefully selected to give the user that feeling of wanting to book a vacation on the Adriatic.
+  - This section contains two boxes with an image, a heading and a paragraph, each.
+  - The goal of this section is to convey to the user a little more information about destinations on the Adriatic.
+  - Each box has an image that has been carefully selected to give the user that feeling of wanting to book a vacation on the Adriatic.
 
  ![Destination Section](./assets/images/destinations-section.png)
+
+ #### Footer Section
+
+  - The Footer contains three social media links (Facebook, Twitter and Instagram).
+  - The purpose of the Footer is to provide easy access for the user to the different social media platforms.
+
+ #### Book Now Image Section
+
+  - This section contains one hero picture that gives the user a pictorial representation of the developed Adriatic coast.
+  - This section also contains a title that describes the above image.
+
+  ![Book Now Image Section](./assets/images/book-now-hero-image.png)
+
+ #### Book Now Form Section
+  - The Book Now Form Section has the purpose to let user book their dream holiday.
+  - The Form has three input fields where users must give their first name, last name and email address.
+  - Users can also choose at least one of the mentioned areas for a summer vacation on the Adriatic.
+  - After submiting the request with the correct information required in the fields, users will be redirected to a Confirmation Page.
+
+  ![Book Now Form Section](./assets/images/book-now-form.png)
