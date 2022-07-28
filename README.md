@@ -79,3 +79,27 @@ The images are selected according to the criterion that they match the text and 
   - Featured on all four pages, the navigation bar includes links to the Home page, Book Now page and About Us page and is identical in each page to allow for easy navigation.
 
   ![Header and Navigation](./assets/images/header-photo.png)
+
+ #### Home Page Hero Outer Section
+
+  - The Home Page Hero Outer Section contains a hero image, h2 & h3.
+  - This section is designed to give the user a sense of a calming atmosphere when entering the page.
+  - The image used for this section was chosen for the reason that it brings the beauty of the Adriatic Coast closer to the user.
+  - The section also contains two headings that gives the user a clear message of what the website is about.
+
+ ![Home Page Hero Outer Section](./assets/images/discover-adriatic-coast-with-us.png)
+
+ #### Vacation Section
+
+  - Vacation Section contains one heading and two paragraphs.
+  - In this section, the user will learn a little more about the geographic concept of the Adriatic coast and the sea.
+  
+ ![Vacation Section](./assets/images/this-is-what-you-are-missing.png)
+
+ #### Destination Section
+
+ - This section contains two boxes with an image, a heading and a paragraph, each.
+ - The goal of this section is to convey to the user a little more information about destinations on the Adriatic.
+ - Each box has an image that has been carefully selected to give the user that feeling of wanting to book a vacation on the Adriatic.
+
+ ![Destination Section](./assets/images/destinations-section.png)
