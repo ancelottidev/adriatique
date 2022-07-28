@@ -148,3 +148,28 @@ The images are selected according to the criterion that they match the text and 
   ![Confirmation Section](./assets/images/confirmation-page.png)
 
   [Back to top](#ʌdriatique-travel-agency)
+
+  ## Technologies used
+
+  - [HTML](https://en.wikipedia.org/wiki/HTML)
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
+
+  ## Testing
+
+  Test has been conducted using Google Chrome, Mozilla Firefox and Safari. Testing diffrent devices and screen resolutions has been conducted using Google DevTools.
+
+  ### Validator
+
+  - HTML
+    - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fancelottidev.github.io%2Fadriatique%2Findex.html)
+
+  ![W3C HTML Validator](./assets/images/html-validator-check.png)
+
+  - CSS
+    - No error were returned when passing thtougn the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fancelottidev.github.io%2Fadriatique%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+  ![Jigsaw validator](./assets/images/css-validator-check.png)
+
+  - Lighthouse testing
+
+  ![Lighthouse testing score](./assets/images/lighthouse-testing.png)
