@@ -173,3 +173,42 @@ The images are selected according to the criterion that they match the text and 
   - Lighthouse testing
 
   ![Lighthouse testing score](./assets/images/lighthouse-testing.png)
+
+  ### Unfixed Bugs
+
+  - There is no bugs in this project.
+
+  ## Development and Deployment
+
+  The development enviroment used for this project was GitPod.
+
+  The live version of the project is deployed at GitHub pages.
+
+  The procedure for deployment followed the "Create your site" steps provided in [GitHub Docs.](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+  1. Log into GitHub.
+  2. Locate the GitHub Repository that shall be deployed live.
+  3. At the top of the repository, select Settings from the menu items.
+  4. Scroll down the Settings page to the ”GitHub Pages" section and click on the ”Check it out here!”
+  5. At the ”Source” section choose ”main” as Branch and root as folder and click ”Save”
+  6. The website will deploy and the pages refreshes to provide the live link to the project.
+
+  The live link can be found here - https://ancelottidev.github.io/adriatique/
+
+  ## Content 
+
+  - Part of the textual content on this site is taken from [Wikipedia](https://en.wikipedia.org/wiki/Adriatic_Sea)
+  - Titles and subtitles from the site were designed by the author of the project.
+  - The design of the project is inspired by Code Insitute "Love Running" project.
+  - Icons for social networks in the footer have been taken from [Font Awesome](https://fontawesome.com/)
+
+  ## Media
+
+  - All images were dowloaded from [Pexels](https://www.pexels.com/)
+
+  ## Credits
+
+  Martina Terlevic
+   - My mentor who helped me a lot in the initial idea of this project and its finalization.
+
+   [Back to top](#ʌdriatique-travel-agency)
