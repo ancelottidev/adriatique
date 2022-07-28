@@ -109,6 +109,8 @@ The images are selected according to the criterion that they match the text and 
   - The Footer contains three social media links (Facebook, Twitter and Instagram).
   - The purpose of the Footer is to provide easy access for the user to the different social media platforms.
 
+  ![Footer Section](./assets/images/footer.png)
+
  #### Book Now Image Section
 
   - This section contains one hero picture that gives the user a pictorial representation of the developed Adriatic coast.
@@ -117,9 +119,32 @@ The images are selected according to the criterion that they match the text and 
   ![Book Now Image Section](./assets/images/book-now-hero-image.png)
 
  #### Book Now Form Section
+  
   - The Book Now Form Section has the purpose to let user book their dream holiday.
   - The Form has three input fields where users must give their first name, last name and email address.
   - Users can also choose at least one of the mentioned areas for a summer vacation on the Adriatic.
   - After submiting the request with the correct information required in the fields, users will be redirected to a Confirmation Page.
 
   ![Book Now Form Section](./assets/images/book-now-form.png)
+
+ #### About Us Section
+  
+  - About Us Section contains one image, h2 & paragraph.
+  - This section is designed to provide the user with additional information about the travel agency itself.
+
+  ![About Us Section](./assets/images/about-us-section.png)
+
+ #### Our Mission Section
+
+  - Our Mission Section contains one image, h2 & paragraph.
+  - This section is designed to bring the company's goals closer to the user.
+
+  ![Our Mission Section](./assets/images/our-mission-section.png)
+
+  #### Confirmation Section
+  
+  - The goal of this section is to give the user a feeling of security that they have confirmed their booking.
+
+  ![Confirmation Section](./assets/images/confirmation-page.png)
+
+  [Back to top](#ʌdriatique-travel-agency)
